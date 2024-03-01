@@ -1,0 +1,12 @@
+I learn in this project
+
+1. first we identify how many table is request
+2. after identify table we search how many table's column require and column can be foreign key also added.
+3. after defining all foreign key and column we thing relationship between tables
+
+ ->     Important is foreign key is must be Many side
+->    "VALIDATE API IS MORE IMPORTANT"
+
+4. Modelmapper and notNull contain
+
+
